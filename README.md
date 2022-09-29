@@ -22,4 +22,4 @@ Supported neural networks：
 
 **For 3D ResNeXt18 mentioned in this paper, the architecture:**
 
-![](./images/images.png)
+![./images/img.png](./images/img.png)
