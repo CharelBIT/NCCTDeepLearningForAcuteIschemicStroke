@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="638ce2fe-3af9-4e82-8d12-3180edb41bc0" name="sshConfig://charel@172.16.1.74:22 password/gruntdata/install/anaconda3/envs/py3.7/bin/python">
+        <fileTransfer accessType="SFTP" host="172.16.1.74" port="22" sshConfigId="6c0e1053-59bb-47da-b0cc-4f35e9ad1b98" sshConfig="sshConfig://charel@172.16.1.74:22 password/gruntdata/install/anaconda3/envs/py3.7/bin/python" />
+      </webServer>
+    </option>
+  </component>
+</project>
